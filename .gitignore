@@ -1,0 +1,8 @@
+*
+!/**/
+!*.c
+!*.h
+
+*.json
+*.plist
+tempCodeRunner*.*
